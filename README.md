@@ -4,12 +4,10 @@ Hi 👋 My name is Finn Cunningham
 Software Engineer
 -----------------
 
-Recent graduate of Software Engineering at Bournemouth University. Currently I have a bit of experience making website primarily using PHP and vanilla js/html but I have also made website using Node.js and mobile apps using React-Native on the use of my dissertation. My most recent example of web development was the development of a website for the Royal British Legion Riders charity for the Remembrance Sunday in Southsea.
+Recent graduate of Software Engineering at Bournemouth University. Currently I have a experience making website primarily using PHP and vanilla js/html but I have also made website using Node.js and mobile apps using React-Native on the use of my dissertation.
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [finncunninghamwork@gmail.com](mailto:finncunninghamwork@gmail.com)
-* 🚀  I'm currently working on [Southsea Remembrance Website](http://rblrsouthsearemembrance.co.uk)
-* 🧠  I'm learning Vue.JS
 
 ### Skills
 
